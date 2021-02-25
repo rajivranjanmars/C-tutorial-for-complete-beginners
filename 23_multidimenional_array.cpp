@@ -18,6 +18,18 @@ int main(){
         
         cout << endl;
     }
+  
+  // alternate method to print output
+   cout << endl << endl;
+    for (int i = 0; i < sizeof(zoo)/sizeof(zoo[0]); i++)
+    {
+        for (int j = 0; j < sizeof(zoo[0])/sizeof(string); j++)
+        {
+            cout<< zoo[i][j] << " " << flush;
+        }
+        cout << endl;
+    }
+    
     
 
  return 0;
