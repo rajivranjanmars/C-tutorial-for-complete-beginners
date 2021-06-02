@@ -15,6 +15,7 @@ int k=0;
 while (text[k]){
     cout<<text[k];
     k++;
-}            
+}  
+          
  return 0;
 }
