@@ -14,6 +14,7 @@ for(int i=0; i <sizeof(text);i++){
 }
 
 int k=0;
+
 while (text[k]){
     cout<<text[k];
     k++;
