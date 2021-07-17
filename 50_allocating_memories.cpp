@@ -24,7 +24,6 @@ Animal::Animal(/* args */)
 Animal::~Animal()
 {
         cout<<"Animal dead" << endl;
-
 }
 
 Animal createAnimal(){
