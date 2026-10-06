@@ -17,4 +17,4 @@ This is a repository in which there are codes which I wrote during doing the ude
 
 ## Author
 
-Author: [rajivranjanmars](https://rajivranjana.in).
+Author: [Rajiv Ranjan](https://rajivranjan.in).
